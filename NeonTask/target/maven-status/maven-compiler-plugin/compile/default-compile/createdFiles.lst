@@ -1,0 +1,3 @@
+com\example\neontask\config\SecurityConfig.class
+com\example\neontask\config\OpenApiConfig.class
+com\example\neontask\NeonTaskApplication.class
